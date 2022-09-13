@@ -1,0 +1,4 @@
+- 👋 OI, meu nome é @izaiasj
+- 👍 meu email de contato é izaias.julkowskidos.santos@escola.pr.gov.b
+- 👀 eu estou interessado em aprender a programar novos idiomas 
+-🦖 eu estou utilizando um programa recentemente a linguagem de JavaScript e Scrath.
